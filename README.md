@@ -1,8 +1,11 @@
 # Prefeitura do Muncipio de Presidente Alves
 # Site/Sistema de Publicações - Municipio de Presidente Alves/SP
 
-# Repositório para deploy para o novo sistema de publicação do Municipio de Presidente Alves/SP
+#A intenção deste repositorio será para publicar os codigos para que qualquer municipio possa usa-lo, modica-lo e etc...
 
-# Desenvolvedor: Empresa Bergasoftware.com - Cesar Alberto Bergamini
+
+#cesar
+
+
 
 
