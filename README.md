@@ -1,11 +1,13 @@
 # Prefeitura do Muncipio de Presidente Alves
-# Site/Sistema de Publicações - Municipio de Presidente Alves/SP
+# Sistema de Publicações 
 
-# A intenção deste repositorio será para a publicação dos codigos para que qualquer municipio possa usa-lo, modica-lo e etc...
 
-# https://presidentealves.sp.gov.br
 
-# cesar
+
+
+
+
+
 
 
 
